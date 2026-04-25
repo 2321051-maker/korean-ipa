@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1LQOAGb8Zkz8lPA-8NGJ-Bmf2ttvaKiNS
 """
 
-!pip install epitran
 
 import epitran
 import ipywidgets as widgets
